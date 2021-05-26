@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/dio/Документы/python/errorExample.py", line 9, in bacon
+    raise Exception('Это сообщение об ошибке.')
+Exception: Это сообщение об ошибке.
