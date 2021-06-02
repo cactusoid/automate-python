@@ -1,0 +1,10 @@
+1622554814124	geckodriver	INFO	Listening on 127.0.0.1:43565
+1622554815121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWieGla"
+1622554816210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622554818387	Marionette	INFO	Listening on port 45603
+1622554818468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1622554928119	Marionette	INFO	Stopped listening on port 45603
